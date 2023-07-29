@@ -6,10 +6,6 @@ TagManager:
   tags:
   - Ground
   - Obstacle
-  - Money
-  - Bomb
-  - Background
-  - Sky
   layers:
   - Default
   - TransparentFX
